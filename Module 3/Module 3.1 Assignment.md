@@ -13,3 +13,5 @@ In this lesson, you learned how to create your own Classroom. For this assignmen
 To submit this assignment, edit this file on the `edit-module-assignment` branch by clicking the pencil icon, then replace the answer below with your own. When you’re finished, open a Pull Request with the changes you’ve made titled `Module 3.1 Assignment` to submit, then proceed to the next section in this module.
 
 _Example Answer: 123456_
+
+Answer: Not clear what the question is. But here is something for the pull request all the same, with the above steps followed.
